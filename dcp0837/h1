@@ -1,0 +1,133 @@
+10441  mv dlc866 dcp866
+10442  cd dcp866
+10445  mv dlc866.py dcp866.py
+10446  vi dcp866.py
+10447  python dcp866.py
+10448  vi dcp866.py
+10449  python dcp866.py
+10450  vi dcp866.py
+10451  python dcp866.py
+10452  vi dcp866.py
+10453  python dcp866.py
+10454  vi dcp866.py
+10459  cd dcp866
+10461  vi dcp866.py
+10462  python3 dcp866.py
+10463  python3 dcp866.py --help
+10464  vi dcp866.py
+10465  python3 dcp866.py --help
+10466  vi dcp866.py
+10467  python3 dcp866.py --help
+10468  python3 dcp866.py -k 1
+10469  vi dcp866.py
+10470  python3 dcp866.py -k 1
+10471  python3 dcp866.py -k 1 2
+10472  vi dcp866.py
+10473  python3 dcp866.py -k 1 -l m2
+10474  python3 dcp866.py -k 1 -l 2
+10475  python3 dcp866.py -k 1 -l 2 3
+10476  python3 dcp866.py -k 1 -l 2 3 4
+10479  vi dcp866.py
+10480  python3 dcp866.py -k 1 -l 2 3 4
+10481  python3 dcp866.py
+10482  vi dcp866.py
+10483  python3 dcp866.py
+10484  vi dcp866.py
+10485  python3 dcp866.py
+10486  vi dcp866.py
+10487  python3 dcp866.py
+10488  vi dcp866.py
+10489  python3 dcp866.py
+10490  vi dcp866.py
+10491  python3 dcp866.py
+10492  vi dcp866.py
+10493  python3 dcp866.py
+10494  vi dcp866.py
+10495  python3 dcp866.py
+10496  vi dcp866.py
+10497  python3 dcp866.py
+10498  vi dcp866.py
+10499  python3 dcp866.py
+10500  vi dcp866.py
+10501  python3 dcp866.py
+10502  vi dcp866.py
+10503  python3 dcp866.py
+10504  vi dcp866.py
+10505  python3 dcp866.py
+10506  vi dcp866.py
+10507  python3 dcp866.py
+10508  vi dcp866.py
+10509  python3 dcp866.py
+10510  vi dcp866.py
+10511  python3 dcp866.py
+10512  vi dcp866.py
+10513  python3 dcp866.py
+10514  vi dcp866.py
+10515  python3 dcp866.py
+10516  vi dcp866.py
+10517  python3 dcp866.py
+10518  vi dcp866.py
+10519  python3 dcp866.py
+10520  vi dcp866.py
+10521  python3 dcp866.py
+10522  vi dcp866.py
+10523  python3 dcp866.py
+10524  python3 dcp866.py -k 2 -l 1
+10525  python3 dcp866.py -k 2 -n 1
+10527  vi dcp866.py
+10528  python3 dcp866.py -k 2 -n 1
+10529  vi dcp866.py
+10530  python3 dcp866.py -k 2 -n 1
+10531  vi dcp866.py
+10532  python3 dcp866.py -k 2 -n 1
+10533  python3 dcp866.py -k 2 -n 1 2
+10534  vi dcp866.py
+10535  python3 dcp866.py -k 2 -n 1 2
+10536  python3 dcp866.py -k 2 -n 2 1
+10537  python3 dcp866.py -k 2 -n 1 2 3
+10538  python3 dcp866.py -k 2 -n 1 2 3 4
+10539  vi dcp866.py
+10540  python3 dcp866.py -k 2 -n 1 2
+10541  vi dcp866.py
+10542  python3 dcp866.py -k 2 -n 1 2
+10543  python3 dcp866.py -k 2 -n 1
+10544  python3 dcp866.py -k 2 -n 2 1
+10545  python3 dcp866.py -k 2 -n 1 2 3
+10546  vi dcp866.py
+10547  python3 dcp866.py -k 2 -n 1 2 3
+10548  vi dcp866.py
+10549  python3 dcp866.py -k 2 -n 1 2 3
+10550  vi dcp866.py
+10551  python3 dcp866.py -k 2 -n 1 2 3
+10552  vi dcp866.py
+10553  python3 dcp866.py -k 2 -n 1 2 3
+10554  vi dcp866.py
+10555  python3 dcp866.py -k 2 -n 1
+10556  python3 dcp866.py -k 2 -n 1 2
+10557  python3 dcp866.py -k 2 -n 2 1
+10558  python3 dcp866.py -k 2 -n 1 2 3
+10559  python3 dcp866.py -k 2 -n 1 2 3 4
+10560  python3 dcp866.py -k 2 -n 1 2 4 3
+10561  python3 dcp866.py -k 2 -n 1 4 2 3
+10562  python3 dcp866.py -k 2 -n 4 3 2 1
+10563  vi dcp866.py
+10564  python3 dcp866.py -k 2 -n 2 1 3
+10565  python3 dcp866.py -k 2 -n 2 1 2 3 
+10566  python3 dcp866.py -k 2 -n 2 1 2 5
+10567  python3 dcp866.py -k 2 -n 1 1 2 3
+10568  python3 dcp866.py -k 2 -n 1 1
+10569  python3 dcp866.py -k 2 -n 1 1 2
+10570  vi dcp866.py
+10571  python3 dcp866.py -k 2 -n 1 1 2
+10572  python3 dcp866.py -k 2 -n 1
+10573  python3 dcp866.py -k 2 -n 1 2
+10574  python3 dcp866.py -k 2 -n 1 2 3
+10575  python3 dcp866.py -k 2 -n 1 2 3 4
+10576  python3 dcp866.py -k 2 -n 1 1 1 2
+10577  python3 dcp866.py -k 2 -n 1 1 2 2 3
+10578  python3 dcp866.py -k 2 -n 1 1 2 2 2 3
+10579  python3 dcp866.py -k 2 -n 1 1 2 2 3 2 3
+10580  vi dcp866.py
+10581  python3 dcp866.py -k 3 -n 1 1 2 2 3 2 3
+10582  python3 dcp866.py -k 3 -n 1 1 2 2 3 2 3 4 5
+10583  python3 dcp866.py -k 3 -n 1 1 2 2 3 2 3 4 5 1 10
